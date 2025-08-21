@@ -17,5 +17,5 @@ object GlobalVars {
     lateinit var activeUserPublicKey: PublicKey
     var isInForeground = true
     var connectedToInternet: Boolean = false
-    var url: String = "ws://192.168.1.41:8000"
+    var url: String = "ws://your_local_IP_here:8000"
 }

@@ -67,7 +67,7 @@ On the same folder where our `main.py` file is located we open a terminal.
 
 And run the server.
 
-`uvicorn main:app --host 0.0.0.0 --port 8000 --reload`
+`uvicorn main:app --host 0.0.0.0 --port 8000`
 
 ## Run the application
 
